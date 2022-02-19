@@ -1,6 +1,8 @@
 <img src="gif.gif" min-width="450px" max-width="450px" width="450px" align="right" alt="logo guardian">
 
-### 🖖 Olá, meu nome é Vinícius Oliveira e sou desenvolvedor FullStack.
+<p align="left"> 
+🖖 Olá, meu nome é Vinícius Oliveira e sou desenvolvedor FullStack.
+</p>
 
 <p align="left">
  ☕ Habilidades: <strong>HTML, CSS, JavaScript, Vue e Lua</strong>
