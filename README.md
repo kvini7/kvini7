@@ -10,6 +10,8 @@
   💼 Ferramentas: <strong>VS Code, Figma, Trello, Git e GitHub.</strong>
 </p>
 
+<br>
+
 <p align="left">
   <a href="https://www.instagram.com/kvini7/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/kvini7"/>
@@ -24,7 +26,7 @@
   </a>
 </p>
 
-  [![card](https://github-readme-stats.vercel.app/api?username=kvini7&theme=dark&show_icons=true)](https://github.com/kvini7/)
-  [![card](https://github-readme-stats.vercel.app/api/top-langs/?username=kvini7&hide=html&layout=compact&theme=dark)](https://github.com/kvini7/)
+[![card](https://github-readme-stats.vercel.app/api?username=kvini7&theme=dark&show_icons=true)](https://github.com/kvini7/)
+[![card](https://github-readme-stats.vercel.app/api/top-langs/?username=kvini7&hide=html&layout=compact&theme=dark)](https://github.com/kvini7/)
   
-   ![Snake animation](https://github.com/kvini7/kvini7/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/kvini7/kvini7/blob/output/github-contribution-grid-snake.svg)
