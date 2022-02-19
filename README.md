@@ -27,8 +27,5 @@
     <img src="https://img.shields.io/badge/-Discord-6610F2?style=for-the-badge&logo=Discord&logoColor=FFFFFF&link=https://discord.gg/k37FbZB"/>
   </a>
 </p>
-
-[![card](https://github-readme-stats.vercel.app/api?username=kvini7&theme=dark&show_icons=true)](https://github.com/kvini7/)
-[![card](https://github-readme-stats.vercel.app/api/top-langs/?username=kvini7&hide=html&layout=compact&theme=dark)](https://github.com/kvini7/)
   
 ![Snake animation](https://github.com/kvini7/kvini7/blob/output/github-contribution-grid-snake.svg)
