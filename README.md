@@ -5,14 +5,6 @@
 </p>
 
 <p align="left">
- ☕ Habilidades: <strong>HTML, CSS, JavaScript, Vue e Lua</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>VS Code, Figma, Trello, Git e GitHub.</strong>
-</p>
-
-<p align="left">
   <a href="https://www.instagram.com/kvini7/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Instagram-6610F2?style=for-the-badge&logo=Instagram&logoColor=FFFFFF&link=https://www.instagram.com/kvini7"/>
   </a>
