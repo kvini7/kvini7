@@ -1,5 +1,3 @@
-<img src="gif.gif" min-width="200px" max-width="200px" width="200px" align="right" alt="logo guardian">
-
 <p align="1"> 
 🖖 Olá, meu nome é Vinícius Oliveira e sou desenvolvedor FullStack.
 </p>
